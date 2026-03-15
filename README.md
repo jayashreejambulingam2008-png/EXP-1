@@ -76,6 +76,18 @@ b.  KCL:
 
 ![Tabulation](KCL_tab.jpeg) 
 
+Output:
+
+a.   KVL:
+
+![Output](KVL_output.jpeg) 
+ 
+
+
+b.  KCL:
+
+![Output](KCL_output.jpeg) 
+
 
 RESULT:
 

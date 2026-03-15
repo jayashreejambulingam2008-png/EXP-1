@@ -42,32 +42,38 @@ b.  KCL:
 CIRCUIT DIAGRAM:
 
 a.   KVL:
+
 ![Circuit Diagram](KVL_circuit_dia.jpeg) 
 
 
 b.  KCL:
+
 ![Circuit Diagram](KCL_circuit_dia.jpeg) 
  
 
 Calculation:
 
 a.   KVL:
- 
+
+![Calculation](KVL_calc.jpeg)  
 
 
 b.  KCL:
 
+![Calculation](KCL_calc.jpeg)  
 
 
 
 Tabulation:
 
 a.   KVL:
+
 ![Tabulation](KVL_tab.jpeg) 
  
 
 
 b.  KCL:
+
 ![Tabulation](KCL_tab.jpeg) 
 
 

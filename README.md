@@ -63,11 +63,12 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+![Tabulation](KVL_tab.jpeg) 
  
 
 
 b.  KCL:
-
+![Tabulation](KCL_tab.jpeg) 
 
 
 RESULT:
